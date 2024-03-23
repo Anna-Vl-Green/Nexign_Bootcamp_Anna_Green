@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1bf1f46-3fc1-452e-80aa-aa0beecdc28c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2e61j9c4WCOrOaAIztcxZEYaLp3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/ru/test/nexigntest/db" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\terra\projects\nexigntest\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.test.nexigntest.db.repo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.rep 2">
+    <configuration name="gen" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.Main" />
+      <module name="nexigntest" />
+      <option name="PROGRAM_PARAMETERS" value="gen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rep 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.Main" />
+      <module name="nexigntest" />
+      <option name="PROGRAM_PARAMETERS" value="rep 79876543202" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rep 2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.Main" />
+      <module name="nexigntest" />
+      <option name="PROGRAM_PARAMETERS" value="rep 79876543202 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rep" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.Main" />
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContextLoadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.test.nexigntest.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.test.ContextLoadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.test.nexigntest.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.test.GeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.test.nexigntest.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.test.ReportTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportTest.shouldCountSeconds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.test.nexigntest.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.test.ReportTest" />
+      <option name="METHOD_NAME" value="shouldCountSeconds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReposTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.test.nexigntest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.test.nexigntest.test" />
+      <option name="MAIN_CLASS_NAME" value="ru.test.nexigntest.test.ReposTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="nexigntest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.test.nexigntest.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.gen" />
+      <item itemvalue="Application.rep" />
+      <item itemvalue="Application.rep 1" />
+      <item itemvalue="Application.rep 2" />
+      <item itemvalue="JUnit.ContextLoadTest" />
+      <item itemvalue="JUnit.GeneratorTest" />
+      <item itemvalue="JUnit.ReportTest" />
+      <item itemvalue="JUnit.ReportTest.shouldCountSeconds" />
+      <item itemvalue="JUnit.ReposTest" />
+      <item itemvalue="Spring Boot.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReposTest" />
+        <item itemvalue="JUnit.ReportTest.shouldCountSeconds" />
+        <item itemvalue="JUnit.ReportTest" />
+        <item itemvalue="JUnit.GeneratorTest" />
+        <item itemvalue="JUnit.ContextLoadTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1bf1f46-3fc1-452e-80aa-aa0beecdc28c" name="Changes" comment="" />
+      <created>1711210347779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711210347779</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="mappedCalls.get(number)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
